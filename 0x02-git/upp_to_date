@@ -1,1 +1,1 @@
-git pull -u origin master
+git pull origin master
